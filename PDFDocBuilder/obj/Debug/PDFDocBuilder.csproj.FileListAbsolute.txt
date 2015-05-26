@@ -1,1 +1,6 @@
 c:\users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilder\bin\Debug\PDFDocBuilder.exe.config
+c:\users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilder\bin\Debug\PDFDocBuilder.exe
+c:\users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilder\bin\Debug\PDFDocBuilder.pdb
+c:\users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilder\obj\Debug\PDFDocBuilder.csprojResolveAssemblyReference.cache
+c:\users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilder\obj\Debug\PDFDocBuilder.exe
+c:\users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilder\obj\Debug\PDFDocBuilder.pdb
