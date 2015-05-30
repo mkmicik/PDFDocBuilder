@@ -1,0 +1,8 @@
+C:\Users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilderTest\bin\Debug\PDFDocBuilderTest.dll
+C:\Users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilderTest\bin\Debug\PDFDocBuilderTest.pdb
+C:\Users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilderTest\bin\Debug\PDFDocBuilder.exe
+C:\Users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilderTest\bin\Debug\PDFDocBuilder.pdb
+C:\Users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilderTest\obj\Debug\PDFDocBuilderTest.csprojResolveAssemblyReference.cache
+C:\Users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilderTest\obj\Debug\PDFDocBuilderTest.dll
+C:\Users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilderTest\obj\Debug\PDFDocBuilderTest.pdb
+C:\Users\mkmicik\documents\visual studio 2013\Projects\PDFDocBuilder\PDFDocBuilderTest\bin\Debug\PDFDocBuilderTest.dll.config
